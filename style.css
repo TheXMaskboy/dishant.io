@@ -1,0 +1,13 @@
+.notice{
+   text-align: center;
+   color: yellow;
+}
+.main{
+    text-align: center;
+    color: green;
+}
+
+.base{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.082);
+}
